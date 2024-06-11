@@ -6,6 +6,13 @@ body {
   text-align: center;
 }
 
+.nav-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Add space between links */
+  margin-bottom: 20px; /* Add space below the navigation bar */
+}
+
 input {
   padding: 10px;
   margin: 20px 0;

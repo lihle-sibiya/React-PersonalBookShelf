@@ -23,7 +23,7 @@ const App = () => {
   return (
     <Router>
       <div className="App">
-        <nav>
+        <nav className="nav-links">
           <Link to="/">Search</Link>
           <Link to="/bookshelf">My Bookshelf</Link>
         </nav>
